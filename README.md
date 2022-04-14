@@ -1,4 +1,4 @@
-# DAO Mix
+# DAO Voting
 
 <div id="top"></div>
 
